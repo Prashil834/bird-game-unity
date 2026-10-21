@@ -12,3 +12,8 @@
 *.pidb
 *.suo
 *.userprefs
+# Unity build files
+*.exe
+*.dll
+[Bb]uild/
+[Bb]uilds/
